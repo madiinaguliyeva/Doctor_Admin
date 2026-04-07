@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ad": "Arzu",
+    "soyad": "Eliyeva",
+    "ixtisas": "Cerrahiye",
+    "tecrube": 15,
+    "telefon": "0708694089",
+    "email": "arzu.eliyeva@mail.com"
+  },
+  {
+    "id": 7,
+    "ad": "Nuray",
+    "soyad": "Kerimova",
+    "ixtisas": "Cerrahiye",
+    "tecrube": 9,
+    "telefon": "0557658956",
+    "email": "nuray.kerimova@mail.com"
+  },
+  {
+    "id": 2,
+    "ad": "Dilsad",
+    "soyad": "Eliyeva",
+    "ixtisas": "Pediatriya",
+    "tecrube": 6,
+    "telefon": "0773012152",
+    "email": "dilsad.eliyeva@mail.com"
+  },
+  {
+    "id": 8,
+    "ad": "Nuray",
+    "soyad": "Adigozelli",
+    "ixtisas": "Pediatriya",
+    "tecrube": 12,
+    "telefon": "0501234567",
+    "email": "nuray.adigozelli@mail.com"
+  },
+  {
+    "id": 3,
+    "ad": "Anar",
+    "soyad": "Isayev",
+    "ixtisas": "Kardiologiya",
+    "tecrube": 12,
+    "telefon": "0503505844",
+    "email": "anar.isayev@mail.com"
+  },
+  {
+    "id": 9,
+    "ad": "Royal",
+    "soyad": "Azadxanli",
+    "ixtisas": "Kardiologiya",
+    "tecrube": 4,
+    "telefon": "0779876543",
+    "email": "royal.azadxanli@mail.com"
+  },
+  {
+    "id": 4,
+    "ad": "Nurlan",
+    "soyad": "Huseynov",
+    "ixtisas": "Nevropotologiya",
+    "tecrube": 10,
+    "telefon": "0553632007",
+    "email": "nurlan.huseynov@mail.com"
+  },
+  {
+    "id": 10,
+    "ad": "Nermin",
+    "soyad": "Eliyeva",
+    "ixtisas": "Nevropotologiya",
+    "tecrube": 13,
+    "telefon": "0516312662",
+    "email": "nermin.eliyeva@mail.com"
+  },
+  {
+    "id": 5,
+    "ad": "Aytac",
+    "soyad": "Ashurova",
+    "ixtisas": "LOR",
+    "tecrube": 11,
+    "telefon": "0504055079",
+    "email": "aytac.ashurova@mail.com"
+  },
+  {
+    "id": 11,
+    "ad": "Vaqif",
+    "soyad": "Quliyev",
+    "ixtisas": "LOR",
+    "tecrube": 9,
+    "telefon": "0701234567",
+    "email": "vaqif.quliyev@mail.com"
+  },
+  {
+    "id": 6,
+    "ad": "Ulker",
+    "soyad": "Veliyeva",
+    "ixtisas": "Oftalmologiya",
+    "tecrube": 16,
+    "telefon": "0504055078",
+    "email": "ulker.veliyeva@mail.com"
+  },
+  {
+    "id": 12,
+    "ad": "Sebine",
+    "soyad": "Quliyeva",
+    "ixtisas": "Oftalmologiya",
+    "tecrube": 8,
+    "telefon": "0553124567",
+    "email": "sebine.quliyeva@mail.com"
+  }
+]
